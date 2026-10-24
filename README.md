@@ -66,7 +66,7 @@ These findings help identify strong-performing periods, markets, and sales chann
 
 ## Project Files
 
-- `Excel_Sales_Dashboard.xlsx` — Excel workbook containing the dashboard, PivotTables, and source data.
+- `https://github.com/assistantsiri2005/Excel_Sales-Dashboard-/blob/main/Excel_Data.Xlsx` — Excel workbook containing the dashboard, PivotTables, and source data.
 - `Dashboard_Screenshot.png` — Dashboard preview.
 
 ## Learning Outcomes
